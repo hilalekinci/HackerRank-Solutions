@@ -10,7 +10,7 @@ This repository contains HackerRank Solutions implemented in Python3
 |:------------:|:-------------:|:----------:|
 | 1          |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/solveMeFirst.py) |
 |       2    |[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)       |[Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/ArithmeticOperators.py)          |
-|       3     |[Python: Division](https://www.hackerrank.com/challenges/python-division/problem)  |[Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/PythonDivision)          |
+|       3     |[Python: Division](https://www.hackerrank.com/challenges/python-division/problem)  |[Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/PythonDivision.py)          |
 |       4     |[Loops](https://www.hackerrank.com/challenges/python-loops/problem)             |[Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/Loops.py)          |
 |       5     |[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)|[Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/ListComprehensions.py)        |
 |       6     |[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|[Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/FindTheRunner-UpScore.py)          |
