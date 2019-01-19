@@ -2,7 +2,6 @@
 
 ![HackerRank](https://hackerrankblog-aaa3.kxcdn.com/wp-content/uploads/2018/03/HR-Logo-Main.png)
 
-<p align="center">
 
 | Problem #  | Problem     | Solution |
 |------------|-------------|----------|
@@ -10,4 +9,3 @@
 |            |             |          |
 |            |             |          |
 
-</p>
