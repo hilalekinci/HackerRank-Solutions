@@ -1,6 +1,9 @@
 # HackerRank-Solutions
 
-![HackerRank](https://hackerrankblog-aaa3.kxcdn.com/wp-content/uploads/2018/03/HR-Logo-Main.png)
+
+<div align="center">
+    <img src="https://hackerrankblog-aaa3.kxcdn.com/wp-content/uploads/2018/03/HR-Logo-Main.png" width="400px"</img> 
+</div>
 
 
 | Problem #  | Problem     | Solution |
