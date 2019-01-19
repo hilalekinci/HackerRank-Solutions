@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="https://hackerrankblog-aaa3.kxcdn.com/wp-content/uploads/2018/03/HR-Logo-Main.png" width="800px"</img> 
+    <img src="https://hackerrankblog-aaa3.kxcdn.com/wp-content/uploads/2018/03/HR-Logo-Main.png" width="600px"</img> 
 </div>
 
 
