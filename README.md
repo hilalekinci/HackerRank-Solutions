@@ -1,5 +1,5 @@
 # HackerRank-Solutions
-This repository contains HackerRank Solutions implemented in Python3
+This repository contains HackerRank Solutions implemented in Python3.
 
 <div align="center">
     <img src="https://hackerrankblog-aaa3.kxcdn.com/wp-content/uploads/2018/03/HR-Logo-Main.png" width="600px"</img> 
@@ -19,4 +19,6 @@ This repository contains HackerRank Solutions implemented in Python3
 |       9    |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)           | [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/AVeryBigSum.py)          |
 |       10   |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)           | [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/Mini-Max_Sum.py)          |
 |       11    |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)           | [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/GradingStudents.py)          |
+|       12   |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)           | [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/diagonalDifference.py)          |
+
 
