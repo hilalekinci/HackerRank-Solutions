@@ -22,6 +22,8 @@ This repository contains HackerRank Solutions implemented in Python3.
 |       12   |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)           | [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/diagonalDifference.py)          |
 |       13   |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)| [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/timeConversion.py)         |
 |       14   |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)| [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/compareTheTriplets.py)         |
+|       15   |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)| [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/plusMinus.py)         |
+
 
 
 
