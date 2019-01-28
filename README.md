@@ -1,11 +1,12 @@
 # HackerRank-Solutions
 This repository contains HackerRank Solutions implemented in Python3.
+Note: Problems may not be in order.
 
 <div align="center">
     <img src="https://hackerrankblog-aaa3.kxcdn.com/wp-content/uploads/2018/03/HR-Logo-Main.png" width="600px"</img> 
 </div>
 
- # "Warp-up" Problems
+ # "Warm-up" Problems
  
 | Problem #  | Problem     | Solution |
 |:------------:|:-------------:|:----------:|
