@@ -5,7 +5,8 @@ This repository contains HackerRank Solutions implemented in Python3.
     <img src="https://hackerrankblog-aaa3.kxcdn.com/wp-content/uploads/2018/03/HR-Logo-Main.png" width="600px"</img> 
 </div>
 
-
+ # "Warp-up" Problems
+ 
 | Problem #  | Problem     | Solution |
 |:------------:|:-------------:|:----------:|
 | 1          |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/solveMeFirst.py) |
@@ -27,4 +28,8 @@ This repository contains HackerRank Solutions implemented in Python3.
 |       17   |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)| [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/birthdayCakeCandles.py)         |
 
 
+# "Implementation" Problems
 
+| Problem #  | Problem     | Solution |
+|:------------:|:-------------:|:----------:|
+| 1          |[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/appleAndOrange.py) |
