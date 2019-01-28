@@ -24,4 +24,7 @@ This repository contains HackerRank Solutions implemented in Python3.
 |       14   |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)| [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/compareTheTriplets.py)         |
 |       15   |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)| [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/plusMinus.py)         |
 |       16   |[Staircase](https://www.hackerrank.com/challenges/staircase/problem)| [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/staircase.py)         |
+|       17   |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)| [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/birthdayCakeCandles.py)         |
+
+
 
