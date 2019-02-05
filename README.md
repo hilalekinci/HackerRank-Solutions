@@ -34,3 +34,4 @@ Note: Problems may not be in order.
 | Problem #  | Problem     | Solution |
 |:------------:|:-------------:|:----------:|
 | 1          |[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/appleAndOrange.py) |
+| 2          |[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/divisibleSumPairs.py) |
