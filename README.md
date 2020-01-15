@@ -36,3 +36,11 @@ Note: Problems may not be in order.
 |:------------:|:-------------:|:----------:|
 | 1          |[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/appleAndOrange.py) |
 | 2          |[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Python Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/Codes/divisibleSumPairs.py) |
+
+
+# C# - 30 Days of Code
+
+| Problem #  | Problem     | Solution |
+|:------------:|:-------------:|:----------:|
+| 1          |[Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [C# Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/C%23/Day%200:%20Hello%2C%20World.) |
+
