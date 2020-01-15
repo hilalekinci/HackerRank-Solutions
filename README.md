@@ -1,5 +1,5 @@
 # HackerRank-Solutions
-This repository contains HackerRank Solutions implemented in Python3.
+This repository contains HackerRank Solutions implementation
 Note: Problems may not be in order.
 
 <div align="center">
@@ -42,5 +42,5 @@ Note: Problems may not be in order.
 
 | Problem #  | Problem     | Solution |
 |:------------:|:-------------:|:----------:|
-| 1          |[Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [C# Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/C%23/Day%200:%20Hello%2C%20World.) |
+| 1          |[Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [C# Code](https://github.com/hilalekinci/HackerRank-Solutions/blob/master/C%23/day0.cs) |
 
